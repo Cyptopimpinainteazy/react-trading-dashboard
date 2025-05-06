@@ -1,0 +1,9 @@
+flask
+requests
+numpy
+pandas
+scikit-learn
+tensorflow
+qiskit
+websocket-client
+web3
