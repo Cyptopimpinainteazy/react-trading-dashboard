@@ -8,7 +8,7 @@
     "package-win": "electron-packager . trading-bot-desktop --platform=win32 --arch=x64 --out=dist --overwrite"
   },
   "devDependencies": {
-    "electron": "^25.0.0",
+    "electron": "^28.3.2",
     "electron-packager": "^17.1.0"
   },
   "dependencies": {}
